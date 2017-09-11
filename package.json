@@ -1,8 +1,7 @@
 {
-  "name": "inquirer",
-  "version": "3.2.3",
-  "description": "A collection of common interactive command line user interfaces.",
-  "author": "Simon Boudrias <admin@simonboudrias.com>",
+  "name": "graphcool-inquirer",
+  "version": "1.0.0",
+  "description": "Fork of inquirer.js with empty line after question",
   "files": [
     "lib"
   ],
@@ -19,7 +18,7 @@
     "test": "gulp",
     "prepublish": "gulp prepublish"
   },
-  "repository": "SBoudrias/Inquirer.js",
+  "repository": "timsuchanek/Inquirer.js",
   "license": "MIT",
   "dependencies": {
     "ansi-escapes": "^3.0.0",
